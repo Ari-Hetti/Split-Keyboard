@@ -47,6 +47,8 @@ A small 32 key split keyboard with thumb knobs that can be powered wired or wire
 <img width="970" height="895" alt="3d Right" src="https://github.com/user-attachments/assets/d22a60e2-5908-4252-b374-3e2201ad2c7d" />
 
 ## CAD
+<img width="1183" height="683" alt="Corner View Onshape" src="https://github.com/user-attachments/assets/a418f6b2-3821-408a-aedf-92f1c70d8144" />
+<img width="1153" height="713" alt="Top View Onshape" src="https://github.com/user-attachments/assets/6eb67853-b768-43a9-a960-b64212504b4b" />
 
 ## BOM
 Name |	Purpose |	Quantity |	Total Cost (USD) |	Link |	Distributor
@@ -64,6 +66,9 @@ Diode |	Keyboard Matrix |	100 |	0.57 |	[LCSC](https://www.lcsc.com/product-detai
 PCBs |	The PCB order (split up to save cost - 5 each side) |	10 |	6	| |	JLCPCP
 
 ## Software
+For this project I will be using KMK, which is an open-source keyboard firmware. I decided to use this instead of ZMK or QMK even with the split keyboard feature still being in devlopment, because I was already familiar with the process due to my experience from my previous keyboard project [Hexpad_Highway](https://github.com/Ari-Hetti/Hexpad_Highway). For the firmware part I landed on a simple keymap with just letters and couple of punctuation symbols as I just want the keyboard to type. I do plan on adding more in the future when I get to the build and can tinker with the possiblities that entail.
+### Code:
+<img width="644" height="982" alt="Code" src="https://github.com/user-attachments/assets/013386bf-3c51-4737-9a2f-3935283969a0" />
 
 
 ## Credits
