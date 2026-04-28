@@ -47,8 +47,9 @@ A small 32 key split keyboard with thumb knobs that can be powered wired or wire
 <img width="970" height="895" alt="3d Right" src="https://github.com/user-attachments/assets/d22a60e2-5908-4252-b374-3e2201ad2c7d" />
 
 ## CAD
-<img width="1183" height="683" alt="Corner View Onshape" src="https://github.com/user-attachments/assets/a418f6b2-3821-408a-aedf-92f1c70d8144" />
-<img width="1153" height="713" alt="Top View Onshape" src="https://github.com/user-attachments/assets/6eb67853-b768-43a9-a960-b64212504b4b" />
+<img width="1353" height="677" alt="Corner View Onshape" src="https://github.com/user-attachments/assets/1d9b9c9d-1800-4962-9afe-5d1e3872d65e" />
+<img width="1265" height="745" alt="Top VIew Onshape" src="https://github.com/user-attachments/assets/ee6e5fe9-6dfe-4933-9885-fb0901e9fda7" />
+
 
 ## BOM
 Name |	Purpose |	Quantity |	Total Cost (USD) |	Link |	Distributor
