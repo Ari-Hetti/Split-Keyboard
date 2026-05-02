@@ -47,14 +47,16 @@ A small 32 key split keyboard with thumb knobs that can be powered wired or wire
 <img width="970" height="895" alt="3d Right" src="https://github.com/user-attachments/assets/d22a60e2-5908-4252-b374-3e2201ad2c7d" />
 
 ## CAD
-<img width="1353" height="677" alt="Corner View Onshape" src="https://github.com/user-attachments/assets/1d9b9c9d-1800-4962-9afe-5d1e3872d65e" />
-<img width="1265" height="745" alt="Top VIew Onshape" src="https://github.com/user-attachments/assets/ee6e5fe9-6dfe-4933-9885-fb0901e9fda7" />
+<img width="1235" height="649" alt="Corner View Onshape" src="https://github.com/user-attachments/assets/8276d79b-1c74-429d-aa63-22377b54c49f" />
+<img width="1250" height="695" alt="Top View Onshape" src="https://github.com/user-attachments/assets/c711f8db-87b3-48f5-a7ff-5ced928e9a0b" />
+
 
 
 ## BOM
 Name |	Purpose |	Quantity |	Total Cost (USD) |	Link |	Distributor
 -----|-------------|----------|-------------------|-------|-------------|
 Switches |	The buttons - I will buy myself as the ones I want are around $40 with shipping |	30 |	0 | |		Cherry
+Keycaps |	To press |	104 |	$7.14 |	[Aliexpress](https://www.aliexpress.com/item/1005008295250376.html?spm=a2g0o.cart.0.0.6dc738dafAtEzr&mp=1&pdp_npi=6%40dis%21USD%21USD+7.21%21USD+7.21%21%21USD+7.21%21%21%21%40210311c217777118378842309e2cb9%2112000044523183096%21ct%21CA%217286041038%21%211%210%21) | Aliexpress
 Hotswap Sockets |	Holds the Switch |	30 |	1.29 |	[LCSC](https://www.lcsc.com/product-detail/C49352235.html?s_z=n_q_CPG151101S11%2520&spm=wm.ssy.bg.0.xh&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVhXVlFTQVRXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlBbUVBeR08GEwkK) |	LCSC
 Seeed Studio XIAO nRF52840 |	MCU - I will buy myself as by itself is $40 with shipping |	2 |	0 |	[Aliexpress](https://www.aliexpress.com/item/1005006988954136.html?spm=a2g0o.cart.0.0.141238da8PxZYU&mp=1&pdp_npi=6%40dis%21CAD%21CAD+51.66%21CAD+27.38%21%21CAD+27.38%21%21%21%402101d49617769317249153178e7174%2112000042942288178%21ct%21CA%217286041038%21%211%210%21) |	Aliexpress
 EC11E Rotary Encoder |	Knob |	2 |	3.96 |	[LCSC](https://www.lcsc.com/product-detail/C470754.html?spm=wm.gwc.xh.6.cbm___wm.sy.ssl.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVlWUlNSQ1BcVTtW) |	LCSC
