@@ -1,0 +1,45 @@
+### Footprint positions - created on 2026-04-30T21:27:53 ###
+### Printed by KiCad version 10.0.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                              PosX       PosY       Rot  Side
+D1        D                  D_SOD-123                                        115.9000   -76.6000   90.0000  bottom
+D2        D                  D_SOD-123                                        116.0000   -95.7000   90.0000  bottom
+D3        D                  D_SOD-123                                        115.9000  -114.7500   90.0000  bottom
+D4        D                  D_SOD-123                                        134.9000   -67.1000   90.0000  bottom
+D5        D                  D_SOD-123                                        134.9000   -86.2000   90.0000  bottom
+D6        D                  D_SOD-123                                        134.9000  -105.2000   90.0000  bottom
+D7        D                  D_SOD-123                                        153.9000   -67.1000   90.0000  bottom
+D8        D                  D_SOD-123                                        154.0000   -86.1000   90.0000  bottom
+D9        D                  D_SOD-123                                        154.0000  -105.1000   90.0000  bottom
+D10       D                  D_SOD-123                                        173.1000   -76.7000   90.0000  bottom
+D11       D                  D_SOD-123                                        173.0000   -95.5000   90.0000  bottom
+D12       D                  D_SOD-123                                        173.0000  -114.8000   90.0000  bottom
+D13       D                  D_SOD-123                                        192.0000  -114.8000   90.0000  bottom
+D14       D                  D_SOD-123                                        191.9000   -76.7000   90.0000  bottom
+D15       D                  D_SOD-123                                        192.0000   -95.7000   90.0000  bottom
+D16       D                  D_SOD-123                                        173.0000  -133.8000   90.0000  bottom
+TP1       GND                TestPoint_Pad_D2.0mm                             136.5000   -55.1000  180.0000  bottom
+TP2       VBAT               TestPoint_Pad_D2.0mm                             139.7000   -55.1000  180.0000  bottom
+CN1       1.0-2P_WT          CONN-SMD_2P-P1.00_SHOU-HAN_1.0-2P-WT             138.2750   -50.8000  -90.0000  top
+R1        806k               R_0805_2012Metric                                153.0000   -51.3000  180.0000  top
+R2        2M                 R_0805_2012Metric                                153.0125   -49.3000    0.0000  top
+SW1       Switch             Hotswap_MX                                       107.5000   -77.1000    0.0000  top
+SW2       Switch             Hotswap_MX                                       107.6000   -96.2000    0.0000  top
+SW3       Switch             Hotswap_MX                                       107.5000  -115.3000    0.0000  top
+SW4       Switch             Hotswap_MX                                       126.5000   -67.6000    0.0000  top
+SW5       Switch             Hotswap_MX                                       126.5000   -86.7000    0.0000  top
+SW6       Switch             Hotswap_MX                                       126.5000  -105.7000    0.0000  top
+SW7       EC11               RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm   175.9000  -129.6000    0.0000  top
+SW8       Switch             Hotswap_MX                                       145.5000   -67.6000    0.0000  top
+SW9       Switch             Hotswap_MX                                       145.6000   -86.6000    0.0000  top
+SW10      Switch             Hotswap_MX                                       145.6200  -105.6000    0.0000  top
+SW11      Switch             Hotswap_MX                                       164.6425   -77.2000    0.0000  top
+SW12      Switch             Hotswap_MX                                       164.6000   -96.0500    0.0000  top
+SW13      Switch             Hotswap_MX                                       164.6000  -115.3000    0.0000  top
+SW14      Switch             Hotswap_MX                                       183.6000  -115.3000    0.0000  top
+SW15      Switch             Hotswap_MX                                       183.5000   -77.2000    0.0000  top
+SW16      Switch             Hotswap_MX                                       183.6000   -96.2000    0.0000  top
+SW17      Switch             Hotswap_MX                                       164.6000  -134.3000    0.0000  top
+U1        XIAO-nRF52840-SMD  XIAO-nRF52840-SMD_Fixed                          164.7000   -57.0000    0.0000  top
+## End
