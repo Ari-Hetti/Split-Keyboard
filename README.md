@@ -35,16 +35,19 @@ A small 32 key split keyboard with thumb knobs that can be powered wired or wire
 
 ## Board Design
 ### Schematics
-<img width="1117" height="482" alt="Side Page" src="https://github.com/user-attachments/assets/3ab42e2d-dd2f-4d39-ac68-f438e727b8c3" />
-<img width="740" height="753" alt="Root Page" src="https://github.com/user-attachments/assets/8fad3d59-00be-4f6d-a68f-f72471f5f6e4" />
+<img width="1152" height="523" alt="Schematic Left" src="https://github.com/user-attachments/assets/a5d71b91-63c0-405f-b08f-bb18f5d1abc1" />
+<img width="1629" height="672" alt="Schematic Right" src="https://github.com/user-attachments/assets/88a70f96-f22f-4c73-8247-be192efe08b8" />
+<img width="740" height="753" alt="Root Page" src="https://github.com/user-attachments/assets/40129fb2-80c5-4515-88e0-031d47139466" />
+
 
 ### PCB
-<img width="857" height="865" alt="PCB Left" src="https://github.com/user-attachments/assets/03a2357a-bd24-43da-af0e-83e92941642c" />
-<img width="931" height="874" alt="PCB Right" src="https://github.com/user-attachments/assets/75b5ff9f-6a01-48e8-a9a3-6ee8c3558961" />
+<img width="1023" height="843" alt="PCB Left" src="https://github.com/user-attachments/assets/acfa2b9d-631a-460b-bcda-8de486a8b8f8" />
+<img width="901" height="865" alt="PCB Right" src="https://github.com/user-attachments/assets/7d5b38a0-9902-43ab-a1f6-37d3f970c934" />
 
 ### 3D View
-<img width="906" height="894" alt="3d Left" src="https://github.com/user-attachments/assets/8d3feb7a-6f41-4c5c-ad09-e893179d275a" />
-<img width="970" height="895" alt="3d Right" src="https://github.com/user-attachments/assets/d22a60e2-5908-4252-b374-3e2201ad2c7d" />
+<img width="891" height="895" alt="3d Left" src="https://github.com/user-attachments/assets/e186d1fe-5e10-4781-99b1-a817333a9b55" />
+<img width="944" height="899" alt="3d Right" src="https://github.com/user-attachments/assets/5a2b8a22-3fe3-44a3-ac14-a215be666eac" />
+
 
 ## CAD
 <img width="1235" height="649" alt="Corner View Onshape" src="https://github.com/user-attachments/assets/8276d79b-1c74-429d-aa63-22377b54c49f" />
